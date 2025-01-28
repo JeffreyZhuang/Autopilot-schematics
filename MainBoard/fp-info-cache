@@ -1,0 +1,78 @@
+18844997019789
+Global_Library
+BMI088
+
+
+0
+16
+16
+Global_Library
+CONN-SMD_5054334071
+
+
+0
+42
+42
+Global_Library
+ICM20948_Handsolder
+24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
+QFN 0.4
+0
+24
+24
+Global_Library
+LED_RGB
+Precision Thin Film Chip Resistor Array, VISHAY (see http://www.vishay.com/docs/28770/acasat.pdf)
+resistor array
+0
+4
+4
+Global_Library
+MLX90393_Handsolder
+QFN, 16 Pin (https://www.nxp.com/docs/en/package-information/98ASA00525D.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+16
+16
+Global_Library
+OST_OSTTE020104
+
+
+0
+2
+2
+Global_Library
+PinHeader_2x12_P1.00mm_Vertical_SMD
+surface-mounted straight pin header, 2x12, 1.00mm pitch, double rows
+Surface mounted pin header SMD 2x12 1.00mm double row
+0
+24
+24
+Global_Library
+SKEDD_6POS
+
+
+0
+6
+6
+Global_Library
+USB-TH_MC-802YC-H105
+
+
+0
+18
+18
+Global_Library
+microSD_HC_Molex_104031-0811
+1.10mm Pitch microSD Memory Card Connector, Surface Mount, Push-Pull Type, 1.42mm Height, with Detect Switch (https://www.molex.com/pdm_docs/sd/1040310811_sd.pdf)
+microSD SD molex
+0
+14
+11
+Global_Library
+test
+
+
+0
+0
+0
